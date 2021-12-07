@@ -34,7 +34,7 @@
 
 #ifndef __DHCPD_H__
 #define __DHCPD_H__
-#include "lwip/ip4_addr.h"
+#include "ip4_addr.h"
 #include "syslog.h"
 
 
